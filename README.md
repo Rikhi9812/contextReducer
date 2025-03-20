@@ -7,8 +7,8 @@ I have written code here how to change the language in English and Japanese, The
 ## create clone 
 git clone https://github.com/Rikhi9812/contextReducer.git
 
-## install
-npm install
+## install 
+npm install or npm i
 
 ## run
 npm run dev

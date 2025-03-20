@@ -1,0 +1,23 @@
+.panel-dark{
+  background-color: black;
+  color: white;
+}
+
+.button-dark{
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 1rem;
+}
+
+.panel-light{
+  background-color: white;
+  color: black;
+}
+
+.button-light{
+  background-color: white;
+  color: black;
+  border-color: black;
+  border-radius: 1rem;
+}
